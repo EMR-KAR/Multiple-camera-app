@@ -35,8 +35,3 @@ pip install kivy
 
 - To run: ``` python run.py ```
 
-
-
----
-
-saimj7/ 28-02-2021 © <a href="http://saimj7.github.io" target="_blank">Sai_Mj</a>.
